@@ -1,0 +1,12 @@
+{
+  "name": "usuarios-api",
+  "version": "1.0.0",
+  "description": "API REST de gestión de usuarios con Node.js y Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

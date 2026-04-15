@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Juan Juanito",
+    "email": "Juan0221@gmail.com",
+    "edad": 25,
+    "activo": false
+  },
+  {
+    "id": 2,
+    "nombre": "María López",
+    "email": "maria@email.com",
+    "edad": 30,
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Pepe Taquito",
+    "email": "PeTa@gmail.com",
+    "edad": 20,
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Dalberth Peralta",
+    "email": "dalberthperalta@gmail.com",
+    "edad": 20,
+    "activo": true
+  }
+]
